@@ -1,0 +1,101 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #c46f6f;
+    color: #160202;
+    margin: 20px;
+  }
+
+  #Titulo{
+    font-size: 15 em;
+    color: rgb(18, 66, 18);
+  }
+
+  .pokemon{
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    font-family: fantasy;
+    font-weight: bold;
+    text-decoration: underline;
+    color: blue;
+  }
+
+  .dueños{
+    font-size: x-large;
+    font-weight: lighter;
+  }
+
+  .creador{
+    border: solid burlywood;
+    width: fit-content;
+    padding: 1em 1em 1em 1em;
+    border-radius: 10%;
+  
+  }
+  .creador2{
+     display: flex;
+    flex-direction: row;
+    gap: 1em;
+    
+  }
+
+  .creador:hover{
+    background-color: beige;
+  }
+
+  .T1{
+    display: flex;
+    justify-content: center;
+    border: solid black;
+    width: auto;
+    padding: auto;
+    background-color: aquamarine;
+    color: #160202;
+  }
+
+  .T1:hover{
+    background-color: aliceblue;
+  }
+
+  .T2{
+    display: flex;
+    justify-content: center;
+    border: solid black;
+    width: auto;
+    padding: auto;
+    background-color: aquamarine;
+    color: #160202;
+  }
+
+  .T2:hover{
+    background-color: aliceblue;
+  }
+
+  .T3{
+    display: flex;
+    justify-content: center;
+    border: solid black;
+    width: auto;
+    padding: auto;
+    background-color: aquamarine;
+    color: #160202;
+  }
+
+  .T3:hover{
+    background-color: aliceblue;
+  }
+
+  .T4{
+    display: flex;
+    justify-content: center;
+    border: solid black;
+    width: auto;
+    padding: auto;
+    background-color: aquamarine;
+    color: #160202;
+  }
+
+  .T4:hover{
+    background-color: aliceblue;
+  }
+  
